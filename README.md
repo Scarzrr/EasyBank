@@ -1,7 +1,5 @@
 # EasyBank
 
-EasyBank
-
 Aplicativo Android do EasyBank, construído com 
 
 Capacitor e configurado para carregar a aplicação web do projeto em um WebView nativo.
