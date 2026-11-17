@@ -70,7 +70,7 @@ O projeto Android incluído no `android.zip` possui:
 - Gradle Wrapper para facilitar a compilação sem depender de uma instalação global do Gradle.
 - Dependências AndroidX e Capacitor Android.
 
-## Tecnologias e configurações
+## Informações do projeto
 
 - **Plataforma:** Android.
 - **Framework de integração:** Capacitor.
