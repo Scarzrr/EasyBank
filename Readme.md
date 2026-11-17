@@ -147,6 +147,7 @@ O arquivo `index.html` presente nos assets Android contém apenas uma mensagem d
 - A descrição das funcionalidades acima foi baseada na demonstração em vídeo enviada para este projeto. Como o código-fonte web completo não está presente no repositório, alguns detalhes de implementação e integrações não puderam ser confirmados diretamente.
 - O vídeo indica um protótipo/MVP para demonstração. Entre as limitações observáveis estão validações ainda simples e, em algumas telas, a possibilidade de o teclado numérico sobrepor parte da interface.
 - O aplicativo não deve ser tratado como uma instituição financeira ou utilizado para movimentações reais sem uma revisão completa de segurança, backend, autenticação, armazenamento e conformidade.
+- tambem deixamos um arquivo zip do projeto desenvolvido no android studio.
 
 ## Licença
 
